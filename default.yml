@@ -1,9 +1,0 @@
-project: testing project
-jobs:
-  calculate:
-    set_value: 10
-    add: 10
-    add: 100
-    subtract: 5
-    multiply: 3
-    output: stdout
