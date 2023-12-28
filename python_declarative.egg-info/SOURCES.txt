@@ -1,0 +1,6 @@
+README
+setup.py
+python_declarative.egg-info/PKG-INFO
+python_declarative.egg-info/SOURCES.txt
+python_declarative.egg-info/dependency_links.txt
+python_declarative.egg-info/top_level.txt

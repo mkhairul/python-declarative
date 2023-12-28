@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: python-declarative
+Version: 0.1.0
+Summary: A simple Python package for creating declarative style system
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >3.6
