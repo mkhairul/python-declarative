@@ -1,5 +1,5 @@
 ## Install
-```pip install -e git+http://github.com/mkhairul/python_declarative.git#egg=python_declarative```
+```pip install -e git+http://github.com/mkhairul/python_declarative.git#egg=python_declarative ```
 
 ## Getting started
 - create a file in the project folder, default.yml
